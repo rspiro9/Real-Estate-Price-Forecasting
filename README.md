@@ -1,5 +1,5 @@
 
-# Module 4 Final Project - Housing Data Analysis
+# Module 4 Final Project - Real Estate Price Forecasting
 
 ## Purpose:
 For this project, you will be acting as a consultant for a fictional real-estate investment firm. The firm has asked you what seems like a simple question:
