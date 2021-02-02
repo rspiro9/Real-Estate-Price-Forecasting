@@ -2,17 +2,17 @@
 # Module 4 Final Project - Real Estate Price Forecasting
 
 ## Purpose:
-For this project, you will be acting as a consultant for a fictional real-estate investment firm. The firm has asked you what seems like a simple question:
+For this project, I will be answering the following question in order to consult a fictional real-estate investment firm:
 
 > what are the top 5 best zipcodes for us to invest in?
 
-You will be forecasting real estate prices of various zipcodes using data from [Zillow](https://www.zillow.com/research/data/) and recommending the top 5 best zipcodes.
+I will forecast real estate prices of various zipcodes using data from [Zillow](https://www.zillow.com/research/data/) and recommend the top 5 best zipcodes to invest in.
 
 ## Data Science Process Used:
 I leveraged the OSEMN (Obtain, Scrub, Explore, Model, Interpret) process for this project. My notebook is organized to follow this process.
 
 ## The Dataset:
-The data you'll be working with comes from the [Zillow Research Page](https://www.zillow.com/research/data/). However, there are many options on that page, and making sure you have exactly what you need can be a bit confusing. For simplicity's sake, we have already provided the dataset for you in this repo--you will find it in the file `zillow_data.csv`.
+The data I'm working with is a modified version of the data from the [Zillow Research Page](https://www.zillow.com/research/data/). The data file can be found in this repo as `zillow_data.csv`.
 
 ## Key Question Answered:
 What are the top 5 best zipcodes for us to invest in?
