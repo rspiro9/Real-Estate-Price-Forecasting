@@ -4,7 +4,7 @@
 ## Purpose:
 For this project, I will be answering the following question in order to consult a fictional real-estate investment firm:
 
-> what are the top 5 best zipcodes for us to invest in?
+> What are the top 5 best zipcodes for us to invest in?
 
 I will forecast real estate prices of various zipcodes using data from [Zillow](https://www.zillow.com/research/data/) and recommend the top 5 best zipcodes to invest in.
 
